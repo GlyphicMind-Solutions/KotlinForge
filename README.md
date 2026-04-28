@@ -17,7 +17,7 @@ KotlinForge supports:
 
 ---
 
-## 🚀 Features
+# 🚀 Features
 ### 🔥 Local‑First LLM Execution
 KotlinForge loads `.gguf` models defined in:
 ```
