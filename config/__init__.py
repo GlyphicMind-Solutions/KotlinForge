@@ -1,8 +1,8 @@
-# /GoForge/config/__init__.py
-# GoForge Config Package
+# /KotlinForge/config/__init__.py
+# KotlinForge Config Package
 
 """
-Configuration package for GoForge.
+Configuration package for KotlinForge.
 Loads settings.json and related configuration utilities.
 """
 
